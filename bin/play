@@ -11,4 +11,4 @@ turn(board)
 
 input = gets.chomp
 
-play(board)
+
